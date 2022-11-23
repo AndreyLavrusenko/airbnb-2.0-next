@@ -1,5 +1,5 @@
 # Airbnb 2.0 web application on Next.js
-(https://airbnb-2-0-pi.vercel.app)
+https://airbnb-2-0-pi.vercel.app
 
 #### Libs
 
