@@ -1,6 +1,6 @@
-#Airbnb 2.0 web application on Next.js
+# Airbnb 2.0 web application on Next.js
 
-####Libs
+#### Libs
 
 * Next.js
 * Tailwind
